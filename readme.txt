@@ -14,3 +14,4 @@ test origin push server.
 
 create a new branch ;
 test --no-ff -m command.
+no no-ff command.
