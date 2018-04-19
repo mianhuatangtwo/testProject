@@ -13,4 +13,8 @@ he is not a good man.
 test origin push server.
 
 create a new branch ;
-Create a new branch is quick & simple.
+<<<<<<< HEAD
+Create a new branch is quick and simple.
+=======
+Create a new branch is quick and simple.
+>>>>>>> feature2
