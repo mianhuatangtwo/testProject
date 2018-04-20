@@ -1,2 +1,6 @@
 update a file
+<<<<<<< HEAD
 the second update.
+=======
+the second update.
+>>>>>>> 18ba8fe5ea6643630175f384fa33c089c4b35764
